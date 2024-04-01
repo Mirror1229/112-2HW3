@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="yQOqfRC5IeYm81wVXbIU" name="第1頁">
+        <mxGraphModel dx="1130" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="APP開發者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="320" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="委員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="340" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="郵差" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="200" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="住戶&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="160" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="警衛" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="440" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="160" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="250" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="340" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="430" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="520" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="70" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="610" width="140" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
